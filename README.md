@@ -99,5 +99,9 @@ Throughout my career, I have played a key role in delivering production-ready so
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegohoyos29)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dfhoyos29@gmail.com)
+<a href="https://linkedin.com/in/diegohoyos29" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:dfhoyos29@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+</a>
