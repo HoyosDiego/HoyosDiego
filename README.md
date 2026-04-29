@@ -99,5 +99,5 @@ Throughout my career, I have played a key role in delivering production-ready so
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/diegohoyos29  
-Email: dfhoyos29@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegohoyos29)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dfhoyos29@gmail.com)
