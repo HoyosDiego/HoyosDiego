@@ -57,6 +57,8 @@ Throughout my career, I have played a key role in delivering production-ready so
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite" />
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ### Tools
